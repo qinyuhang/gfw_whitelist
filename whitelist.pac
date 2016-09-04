@@ -126,6 +126,7 @@ var white_domains = {"am":{
 "mzsky":1,
 "n21":1,
 "nandagang":1,
+"ngacn":1,
 "pingyin":1,
 "pinjie":1,
 "pp":1,
@@ -192,6 +193,8 @@ var white_domains = {"am":{
 "bearing":1,
 "hebei":1,
 "yinshua":1
+},"cn":{
+"*.edu":1
 },"co":{
 "425300":1,
 "banzhu":1,
@@ -1559,6 +1562,8 @@ var white_domains = {"am":{
 "abchina":1,
 "ablesky":1,
 "accgame":1,
+"acfun":1,
+"acgvideo":1,
 "aci-wh":1,
 "acs86":1,
 "acshoes":1,
@@ -2443,6 +2448,7 @@ var white_domains = {"am":{
 "chinazjy":1,
 "chinesecio":1,
 "chinesejy":1,
+"chiphell":1,
 "chizhoujob":1,
 "chizhouren":1,
 "chiznews":1,
@@ -3014,6 +3020,7 @@ var white_domains = {"am":{
 "dospy":1,
 "dostor":1,
 "douban":1,
+"doubanio":1,
 "douguo":1,
 "douluodalu123":1,
 "douxie":1,
@@ -6455,6 +6462,7 @@ var white_domains = {"am":{
 "spjobhr":1,
 "spjxcn":1,
 "sportscn":1,
+"springer":1,
 "springtour":1,
 "spsb114":1,
 "spzs":1,
@@ -6485,6 +6493,7 @@ var white_domains = {"am":{
 "staticsdo":1,
 "stcn":1,
 "stdaily":1,
+"steampowered":1,
 "steelphone":1,
 "stnts":1,
 "stockstar":1,
@@ -7812,6 +7821,7 @@ var white_domains = {"am":{
 "ysxyyt":1,
 "ytbbs":1,
 "ytbxw":1,
+"ytcz":1,
 "ythouse":1,
 "ythuayi":1,
 "ytjob":1,
@@ -9551,6 +9561,8 @@ var white_domains = {"am":{
 "shengqian":1,
 "soutudi":1,
 "wangxiao":1
+},"tech":{
+"lab309":1
 },"tm":{
 "stone":1
 },"tv":{
@@ -9571,6 +9583,7 @@ var white_domains = {"am":{
 "9555":1,
 "9928":1,
 "9998":1,
+"acfun":1,
 "acg":1,
 "bilibili":1,
 "caoxian":1,
