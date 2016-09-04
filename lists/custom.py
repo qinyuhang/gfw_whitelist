@@ -10,6 +10,7 @@ steampowered.com
 *.edu.cn
 springer.com
 lab309.tech
-ytcz.com
+lab309.tech
+ytcz.net
 """
     return set(liststr.splitlines(False))
