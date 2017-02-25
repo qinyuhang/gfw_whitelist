@@ -9696,6 +9696,8 @@ function isInDomains(domain_dict, host) {
 	}
 }
 function FindProxyForURL(url, host) {
+	url=""+url;
+	host=""+host;
 	if ( isPlainHostName(host) === true ) {
 		return direct;
 	}
